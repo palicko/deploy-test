@@ -1,0 +1,5 @@
+phploy.*
+bin/*
+src/*
+PHPloy/*
+deploy.ini
